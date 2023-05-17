@@ -1,0 +1,7 @@
+El grupo se comportará como un equipo de desarrollo, entregando al profesor, que actuará como cliente,
+el código fuente y los manuales de instalación y de usuario de dicho código. El grupo podrá elegir uno 
+de los dos posibles aplicaciones que se muestran a continuación. Sea cual sea la aplicación elegida, 
+deberá poderse ejecutar mediante el comando make. Los procesos cliente y servidor de la aplicación deberán 
+contener en sus nombres las cadenas cli2 y serv2 respectivamente. Dichos nombres pueden comprobarse mediante 
+el comando ps de Unix. En el caso de que la aplicación se realice mediante un único ejecutable, éste se 
+llamará cliserv2 pero deberá generar un mínimo de dos procesos cuyos nombre deberían ser cli2 y serv2.
