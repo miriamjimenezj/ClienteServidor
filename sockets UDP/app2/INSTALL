@@ -1,0 +1,11 @@
+Manual de instalación, administración y configuración.
+Basta con escribir 'make' para ejecutar el archivo cliserv2.py.
+
+Pasos para instalar python en Linux: 
+1. Abrir una terminal Linux
+2. Actualizar el índice de paquetes del sistema:    
+    $ sudo apt update
+3. Instalar python3 en el sistema:
+    $ sudo apt install python3 
+4. Verificar la instalación:
+    $ python3 --version
